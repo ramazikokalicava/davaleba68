@@ -1,0 +1,25 @@
+.mydiv
+{
+    width: 305px;
+    height: 168px;
+    border: 1px solid #DB00FF;
+}
+.mydiv1
+{
+    width: 657px;
+    height: 121px;
+    border: 3px dashed #450E4E;
+}
+.mydiv2
+{
+    width: 399px;
+    height: 95px;
+    border: 3px solid #04FF4A ;
+}
+.mydiv3
+{
+    width: 1097px;
+    height: 173px;
+    border: 3px solid #247DAF;
+    background-color: #736E42;
+}
